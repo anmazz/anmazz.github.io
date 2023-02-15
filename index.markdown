@@ -4,9 +4,8 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
+title: Full Stack Software Engineer
 ---
-
-# Full Stack Software Engineer
 
 ## Skills
 - Java, Spring Boot, Maven
